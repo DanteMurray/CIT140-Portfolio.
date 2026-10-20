@@ -1,0 +1,129 @@
+{
+  "format": "command-nexus-weekly-report",
+  "schemaVersion": 1,
+  "courseId": "CIT140",
+  "week": 2,
+  "assignmentId": "CIT140-W02-BUSINESS-CASE",
+  "artifactType": "business-case-recommendation",
+  "caseId": "meridian-forge",
+  "reportId": "e077408d-3675-4e72-873f-8119c59b5dd1",
+  "revision": 1683,
+  "createdAt": "2026-09-30T04:04:10.186Z",
+  "exportedAt": "2026-09-30T22:40:46.961Z",
+  "learnerLabel": "Business Reccomendation",
+  "contentStatus": "complete-fields",
+  "sections": [
+    {
+      "id": "project",
+      "title": "Proposed project",
+      "value": "The QA control review is the proposed project."
+    },
+    {
+      "id": "need",
+      "title": "Business need",
+      "value": "The amount of time could be reduced, and the claim that the review would cut retrieval time in half needs to be supported by evidence."
+    },
+    {
+      "id": "value",
+      "title": "Expected value and beneficiaries",
+      "value": "48 staff hours and $2,820 would be the cost of the review, this effects the staff working on it and the funds of the company as a whole, however identifying the cause of the robot's malfunction could be of great benefit despite this."
+    },
+    {
+      "id": "scopeIn",
+      "title": "Included work",
+      "value": "\"QA requests a record; the relevant custodian locates it; QA and Engineering check its origin and meaning; Operations receives a summary. The request does not replace this workflow with a new system.\""
+    },
+    {
+      "id": "scopeOut",
+      "title": "Excluded work",
+      "value": "This review does not authorize any actual robotics repairs."
+    },
+    {
+      "id": "technical",
+      "title": "Technical feasibility",
+      "value": " \"exports has been requested but has not yet been confirmed,\" read only exports can support the review but not the available tools seemingly."
+    },
+    {
+      "id": "operational",
+      "title": "Operational feasibility",
+      "value": "Some can and some cannot \"Regular duties remain in place. A shift reassignment could remove the QA window; late exports could delay Engineering. Neither has occurred in this packet.\""
+    },
+    {
+      "id": "resources",
+      "title": "Cost and resource feasibility",
+      "value": "The base estimate is $180 below the $3,000 envelope; the upper estimate is $525 above it.  I believe the ability to save 180 does not warrant the chance ability to lose 525"
+    },
+    {
+      "id": "schedule",
+      "title": "Schedule feasibility",
+      "value": "\"The eight-day plan has two business days of headroom against the ten-day limit\", this is a lot more time to work with."
+    },
+    {
+      "id": "constraints",
+      "title": "Known constraints",
+      "value": "\"All learner work stays outside the safety glass. Preserve the original records, use read-only copies, and record missing access. A training recommendation does not grant permission to operate equipment.\" $2,820 is the budget."
+    },
+    {
+      "id": "risks",
+      "title": "Risks and assumptions",
+      "value": "“Completing the review will cut retrieval time in half.” is not a supported claim, how do we know it will cut retrieval time in half? "
+    },
+    {
+      "id": "success",
+      "title": "Success measures and evidence",
+      "value": "(I'm having trouble understanding this question?)"
+    },
+    {
+      "id": "recommendation",
+      "title": "Recommendation",
+      "value": "revise"
+    },
+    {
+      "id": "rationale",
+      "title": "Rationale and conditions",
+      "value": "I believe that there are no garuntees that the review will resume work at all:  \"give QA and Engineering a traceable record they can use to investigate further, and give Operations a defensible basis for requesting later work. A completed review is not a promise of restored production.\" I believe that while it would be helpful for QA engineering and operations to have this information, if this much money is being spent there should be some way to garuntee the sponsor that work will continue, not a bad plan... just not enough information."
+    },
+    {
+      "id": "nextStep",
+      "title": "Next authorization or information step",
+      "value": "I think costs could be cut by giving QA and Engineering the things they need in order to investiagte further, however later work can be postponed until the actual problem is ensured it will be fixed."
+    }
+  ],
+  "sources": [
+    {
+      "id": "W02-S01",
+      "title": "Request for a bounded review",
+      "locator": "Week 2 decision packet · W02-S01"
+    },
+    {
+      "id": "W02-S02",
+      "title": "Evidence-retrieval workload",
+      "locator": "Week 2 decision packet · W02-S02"
+    },
+    {
+      "id": "W02-S03",
+      "title": "Proposed scope and current workflow",
+      "locator": "Week 2 decision packet · W02-S03"
+    },
+    {
+      "id": "W02-S04",
+      "title": "Capacity, access and operating limits",
+      "locator": "Week 2 decision packet · W02-S04"
+    },
+    {
+      "id": "W02-S05",
+      "title": "Estimate and success-measure sheet",
+      "locator": "Week 2 decision packet · W02-S05"
+    }
+  ],
+  "attachments": [
+    {
+      "id": "repository-check",
+      "filename": "Week02_Repository_Check.png",
+      "kind": "supporting-evidence",
+      "caption": "Required Week 2 repository screenshot; supply the actual file separately. This reference does not verify an upload.",
+      "sourceIds": []
+    }
+  ],
+  "relatedReportIds": []
+}
